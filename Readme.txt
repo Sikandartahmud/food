@@ -1,6 +1,11 @@
+<<<<<<< HEAD
 eme Name: Food And Restaurant Psd Template
 ft 
 == Copyright (c) 2016 BootstrapThemes.co
+=======
+ Theme Name: Food And Restaurant Psd Templateal and final full and final commit
+= Copyright (c) 2016 BootstrapThemes.co
+>>>>>>> dd63f70a13ec6b06b2c5a1c88c6c116b3de555e4
 
 == http://BootstrapThemes.co
 

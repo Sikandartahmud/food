@@ -1,5 +1,5 @@
 == Theme Name: Food And Restaurant Psd Template
-final commit
+full and final commit
 == Copyright (c) 2016 BootstrapThemes.co
 
 == http://BootstrapThemes.co

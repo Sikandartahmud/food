@@ -1,4 +1,4 @@
-<<<<<< HEAD
+<<<<< HEAD
 eme Name: Food And Restaurant Psd Template
 ft 
 == Copyright (c) 2016 BootstrapThemes.co

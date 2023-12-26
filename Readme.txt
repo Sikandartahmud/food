@@ -1,5 +1,4 @@
 == Theme Name: Food And Restaurant Psd Template
-thisis the begining of the end and end is the begining this is just a small edit 
 == Copyright (c) 2016 BootstrapThemes.co
 
 == http://BootstrapThemes.co

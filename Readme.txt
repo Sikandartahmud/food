@@ -1,4 +1,4 @@
-ieme Name: Food And Restaurant Psd Template
+eme Name: Food And Restaurant Psd Template
 ft 
 == Copyright (c) 2016 BootstrapThemes.co
 

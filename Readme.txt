@@ -1,4 +1,4 @@
- Theme Name: Food And Restaurant Psd Template
+heme Name: Food And Restaurant Psd Template
 ft 
 == Copyright (c) 2016 BootstrapThemes.co
 
